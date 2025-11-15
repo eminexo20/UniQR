@@ -1,7 +1,7 @@
 
   # Web Page Design
 
-  This is a code bundle for Web Page Design. The original project is available at https://www.figma.com/design/26euulfH2v8ebAZNZpSVJa/Web-Page-Design.
+  This is a code bundle for Web Page Design. The original project is available at https://6917c691bb99596f46fb33cf--sage-zabaione-593f11.netlify.app/
 
   ## Running the code
 
